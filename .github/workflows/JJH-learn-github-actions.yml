@@ -1,5 +1,5 @@
 name: JJH-learn-github-actions
-run-name: ${{ github.actor }} is learning Github Actions 
+run-name: ${{ github.actor }} is learning Github Actions json
 on: [push]
 jobs:
   check-json-version:
